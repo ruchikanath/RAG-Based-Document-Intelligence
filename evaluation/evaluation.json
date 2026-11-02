@@ -1,0 +1,44 @@
+[
+    {
+        "question": "What is Ethics of AI?",
+        "expected_source": "AI_Fundamentals.pdf",
+        "expected_topic": "Ethics of AI",
+        "should_answer": true
+    },
+    {
+        "question": "What is Responsible AI?",
+        "expected_source": "AI_Fundamentals.pdf",
+        "expected_topic": "Responsible AI",
+        "should_answer": true
+    },
+    {
+        "question": "What are RDDs in Apache Spark?",
+        "expected_source": "PGCP-AI_School_TG_8.pdf",
+        "expected_topic": "Resilient Distributed Datasets",
+        "should_answer": true
+    },
+    {
+        "question": "What is PySpark?",
+        "expected_source": "PGCP-AI_School_TG_8.pdf",
+        "expected_topic": "PySpark",
+        "should_answer": true
+    },
+    {
+        "question": "What is Machine Learning?",
+        "expected_source": "AI_Fundamentals.pdf",
+        "expected_topic": "Machine Learning",
+        "should_answer": true
+    },
+    {
+        "question": "What is the capital of France?",
+        "expected_source": null,
+        "expected_topic": null,
+        "should_answer": false
+    },
+    {
+        "question": "Who is Sachin Tendulkar?",
+        "expected_source": null,
+        "expected_topic": null,
+        "should_answer": false
+    }
+]
